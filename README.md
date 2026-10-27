@@ -6,20 +6,20 @@
 </p>
 
 <p align="center">
-  <a href="https://ekadianharis.codecat.space/"><img src="https://img.shields.io/badge/Portfolio-ekadianharis.codecat.space-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.upwork.com/"><img src="https://img.shields.io/badge/Upwork-Available_for_hire-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
+  <a href="https://ekadianharis.codecat.space/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ekadianharis.codecat.space-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🛠️ ~2.5 years of backend engineering (since May 2023) and full-stack delivery on top of it
+- 🛠️ ~3 years of backend engineering (since May 2023) and full-stack delivery on top of it
 - 💳 Strong in **payment gateway integrations**: Midtrans, Xendit, Stripe, PayPal
 - 🧾 Built a **core ledger system** for POS cash in/out tracking (Go)
 - ⚡ Used **Go concurrency** (goroutines/channels) for large-scale Excel import/export
 - 🚀 Comfortable owning delivery end to end: VPS provisioning, Docker, Nginx, CI/CD
 - 🏢 Operating as a registered business entity (PT Perorangan) for freelance and contract work
+- 👦🏻 Pronouns: He/Him
 
 ## 🧰 Tech Stack
 
@@ -82,6 +82,5 @@
 ## 📫 Let's Work Together
 
 - 🌐 Portfolio: [ekadianharis.codecat.space](https://ekadianharis.codecat.space/)
-- 💼 Upwork: **CodeCat**
 
 <p align="center"><i>"Make it work, make it correct, make it observable."</i></p>
